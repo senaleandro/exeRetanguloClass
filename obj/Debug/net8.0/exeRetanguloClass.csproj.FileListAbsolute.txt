@@ -1,0 +1,14 @@
+/home/sena/Documents/C#00/exeRetanguloClass/bin/Debug/net8.0/exeRetanguloClass
+/home/sena/Documents/C#00/exeRetanguloClass/bin/Debug/net8.0/exeRetanguloClass.deps.json
+/home/sena/Documents/C#00/exeRetanguloClass/bin/Debug/net8.0/exeRetanguloClass.runtimeconfig.json
+/home/sena/Documents/C#00/exeRetanguloClass/bin/Debug/net8.0/exeRetanguloClass.dll
+/home/sena/Documents/C#00/exeRetanguloClass/bin/Debug/net8.0/exeRetanguloClass.pdb
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.AssemblyInfoInputs.cache
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.AssemblyInfo.cs
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.csproj.CoreCompileInputs.cache
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.dll
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/refint/exeRetanguloClass.dll
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.pdb
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/exeRetanguloClass.genruntimeconfig.cache
+/home/sena/Documents/C#00/exeRetanguloClass/obj/Debug/net8.0/ref/exeRetanguloClass.dll
